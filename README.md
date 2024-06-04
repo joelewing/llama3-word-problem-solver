@@ -9,7 +9,7 @@ Llama 3 Word Problem Solver is a natural language math solver that:
 
 This program was written to leverage LLMs to parse word problems, but to leave the calculation part to functions that can do math without "hallucinations".
 
-It is currently limited to single-operator expressions with operands ranging from 0-999. It may struggle to return the correct units with division problems in some cases.
+It is currently limited to single-operator (addition, subtraction, multiplication, division) expressions with operands ranging from 0-999. It may struggle to return the correct units with division problems in some cases.
 
 ## Installation
 
