@@ -4,7 +4,7 @@ Llama 3 Word Problem Solver is a natural language math solver that:
 
 - Uses Llama 3 via the koboldcpp api to parse an expression from a word problem
 - Solves that expression
-- Returns the final answer with the units
+- Returns the final answer with the units from the original word problem
 
 
 This program was written to leverage LLMs to parse word problems, but to leave the calculation part to functions that can do math without "hallucinations".
