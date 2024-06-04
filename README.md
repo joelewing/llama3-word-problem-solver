@@ -18,7 +18,7 @@ You'll need Python 3.11, pip, koboldcpp, and the llama3 weights in GGUF format, 
 First, clone the repository and install the needed packages:
 - `git clone https://github.com/joelewing/llama3-word-problem-solver`
 - `cd llama3-word-problem-solver`
-- `pip install requirements.txt`
+- `pip install -r requirements.txt`
 
 Second, install koboldcpp from [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): 
 - Select the executable for your platform
