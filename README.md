@@ -13,7 +13,7 @@ It is currently limited to single-operator (addition, subtraction, multiplicatio
 
 ## Installation
 
-You'll need Python 3.11, pip, koboldcpp, and the llama3 weights in GGUF format, and of the code in this repo.
+You'll need Python 3.11, pip, koboldcpp, and the llama3 weights in GGUF format, and the code in this repo.
 
 First, clone the repository and install the needed packages:
 - `git clone https://github.com/joelewing/llama3-word-problem-solver`
